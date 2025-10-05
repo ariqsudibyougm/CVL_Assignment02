@@ -1,6 +1,8 @@
 # CVL_Assignment02
  # Analisis Hasil Deteksi Objek
 
+ Dataset : https://www.kaggle.com/datasets/malder82fox/dataset-cans
+
 ## 1. Metode yang Digunakan
 Pada eksperimen ini, sistem **deteksi objek** diimplementasikan **tanpa menggunakan library deteksi** seperti YOLO atau Faster R-CNN.  
 Pendekatan yang digunakan adalah metode **klasik pengolahan citra**, yang terdiri dari beberapa tahapan utama:
